@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="41.333">
+    <testcase classname="Write the test of https://demoqa.com/" name="cucumber bdd and pom with test" time="40.83">
+        <system-out>
+            <![CDATA[Given Alerts click..........................................................passed
+Given Handle all alerts.....................................................passed
+Then Interactions...........................................................passed
+Then Click droppable button.................................................passed
+Then Under the simple module drag the “drag me” box to the “drop me” box  and verify that dropped.passed
+And Widgets click...........................................................passed
+And Click tool Tips button..................................................passed
+And Hover over the “Hover me to see” button and verify the “You Hovered Over the button” message.passed
+And Hover over the “Hover me to see” text field and verify “You hovered the text field” message..passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

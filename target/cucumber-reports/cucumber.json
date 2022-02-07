@@ -1,0 +1,146 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-02-07T11:56:46.270Z",
+        "line": 5,
+        "name": "cucumber bdd and pom with test",
+        "description": "",
+        "id": "write-the-test-of-https://demoqa.com/;cucumber-bdd-and-pom-with-test",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 17313844000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Alerts click",
+            "match": {
+              "location": "stepDefinitions.TestStepDefinition.alerts_click()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4237923700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Handle all alerts",
+            "match": {
+              "location": "stepDefinitions.TestStepDefinition.handle_all_alerts()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2287384300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Interactions",
+            "match": {
+              "location": "stepDefinitions.TestStepDefinition.interactions()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2293940800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click droppable button",
+            "match": {
+              "location": "stepDefinitions.TestStepDefinition.click_droppable_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2482634100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Under the simple module drag the “drag me” box to the “drop me” box  and verify that dropped",
+            "match": {
+              "location": "stepDefinitions.TestStepDefinition.under_the_simple_module_drag_the_drag_me_box_to_the_drop_me_box_and_verify_that_dropped()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2127031300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Widgets click",
+            "match": {
+              "location": "stepDefinitions.TestStepDefinition.widgets_click()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6435638300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Click tool Tips button",
+            "match": {
+              "location": "stepDefinitions.TestStepDefinition.click_tool_tips_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 62007300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Hover over the “Hover me to see” button and verify the “You Hovered Over the button” message",
+            "match": {
+              "location": "stepDefinitions.TestStepDefinition.hover_over_the_hover_me_to_see_button_and_verify_the_you_hovered_over_the_button_message()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3393989800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Hover over the “Hover me to see” text field and verify “You hovered the text field” message.",
+            "match": {
+              "location": "stepDefinitions.TestStepDefinition.hover_over_the_hover_me_to_see_text_field_and_verify_you_hovered_the_text_field_message()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Write the test of https://demoqa.com/",
+    "description": "",
+    "id": "write-the-test-of-https://demoqa.com/",
+    "keyword": "Feature",
+    "uri": "file:src/test/resourses/features/test.feature",
+    "tags": [
+      {
+        "name": "@test",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
